@@ -11,7 +11,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/TankPlayerFinish.unity
     guid: c63c5b8f9ba7ac141ac6614866b1de4f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/PlatformerStart.unity
     guid: 5f88e3ed1b2b71f4b9b826d2c1c18908
+  - enabled: 1
+    path: Assets/Scenes/PlatformerPlayerAnimationFinished.unity
+    guid: ceaacfd944e701949bb6c893bf41b9bc
   m_configObjects: {}
